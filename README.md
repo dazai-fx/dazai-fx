@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mi***
 
 Soy estudiante de desarrollado web y actualmente cursando el fp de daw. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end. Me encanta aprender y programar cosas nuevas, productivas, innovadoras y creativas.
-- 🌱 Actualmente estudiando ...
+- 🌱 Actualmente aprendiendo ...
   - Angular
   - Django
 - 👯 Estoy deseando colaborar en proyectos de código abierto.
