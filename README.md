@@ -4,8 +4,8 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mi***
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
-- 🌱 I’m currently learning ...
+Soy estudiante de desarrollado web y actualmente cursando el fp de daw. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end. Me encanta aprender y programar cosas nuevas, productivas, innovadoras y creativas.
+- 🌱 Actualmente estudiando ...
   - Nest.js
   - Angular
 - 👯 I’m looking forward to collaborate on open source projects.
