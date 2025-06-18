@@ -6,13 +6,11 @@
 
 Soy estudiante de desarrollado web y actualmente cursando el fp de daw. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end. Me encanta aprender y programar cosas nuevas, productivas, innovadoras y creativas.
 - 🌱 Actualmente estudiando ...
-  - Nest.js
   - Angular
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
-- 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
-- 📫 Reach out to me at: <a href="valenwerlecontacto@gmail.com">valenwerlecontacto@gmail.com</a>
+  - Django
+- 👯 Estoy deseando colaborar en proyectos de código abierto.
+- ✔  Pregúntame lo que quieras, estaré encantado de ayudarte.<br>
+- 📫 Puedes contactarme en: <a href="mailto:joseanlopezavilas@gmail.com">joseanlopezavilas@gmail.com</a>
 
 
 ## HABILIDADES TÉCNICAS
