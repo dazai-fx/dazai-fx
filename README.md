@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hola, Soy José Antonio </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"> <b>Hola, Soy José Antonio </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mi***
 Soy un estudiante de desarrollo web, terminando el ciclo formativo de desarrollo de aplicaciones web (daw). Estoy ampliando mis conocimientos tanto en el desarrollo frontend como backend. Me encanta aprender y hacer cosas nuevas, productivo, trabajo en equipo y comunicación tecnica.
@@ -7,9 +7,10 @@ Soy un estudiante de desarrollo web, terminando el ciclo formativo de desarrollo
   - django
 - 👯 Estoy buscando trabajo o colaborar en proyectos opensource.
 - ✔ preguntame lo que quieras, estare encantado de ayudarte<br>
-- 📫 Escribeme aquí: <a href="joseanlopezavila@gmail.com">joseanlopezavila@gmail.com</a>
+- 📫 Escribeme aquí: <a href="mailto:joseanlopezavila@gmail.com">joseanlopezavila@gmail.com</a>
 
-## My Skills Include
+
+## HABILIDADES TÉCNICAS
 
 <h4> Lenguajes </h4>
 <span> 
