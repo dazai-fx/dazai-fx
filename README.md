@@ -10,8 +10,7 @@ Soy estudiante de desarrollado web y actualmente cursando el fp de daw. Estoy am
   - Django
 - 👯 Estoy deseando colaborar en proyectos de código abierto.
 - ✔  Pregúntame lo que quieras, estaré encantado de ayudarte.<br>
-- 📫 Puedes contactarme en: <a href="mailto:joseanlopezavilas@gmail.com">joseanlopezavilas@gmail.com</a>
-
+- 📫 Puedes contactarme en: <a href="mailto:joseanlopezavila@gmail.com">joseanlopezavila@gmail.com</a>
 
 ## HABILIDADES TÉCNICAS
 
