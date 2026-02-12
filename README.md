@@ -7,7 +7,7 @@
 Soy estudiante de desarrollado web y actualmente cursando el fp de daw. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end. Me encanta aprender y programar cosas nuevas, productivas, innovadoras y creativas.
 - 🌱 Actualmente aprendiendo ...
   - Angular
-  - Django
+  - Spring Boot
 - 👯 Estoy deseando colaborar en proyectos de código abierto.
 - 💻  Actualmente estoy haciendo un par de proyectos y un portafolio.<br>
 - ✔  Pregúntame lo que quieras, estaré encantado de ayudarte.<br>
