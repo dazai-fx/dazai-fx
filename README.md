@@ -4,12 +4,13 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mi***
 
-Soy estudiante de desarrollado web y actualmente cursando el fp de daw. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end. Me encanta aprender y programar cosas nuevas, productivas, innovadoras y creativas.
+Soy estudiante de desarrollado web y actualmente cursando el fp superior de DAW. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end. Me encanta aprender y programar cosas nuevas, productivas, innovadoras y creativas.
 - 🌱 Actualmente aprendiendo ...
   - Angular
-  - Spring Boot
+  - Arquitectura hexagonal
+  - Patrones de diseño
 - 👯 Estoy deseando colaborar en proyectos de código abierto.
-- 💻  Actualmente estoy haciendo un par de proyectos y un portafolio.<br>
+- 💻  Actualmente terminando mis estudios de DAW.<br>
 - ✔  Pregúntame lo que quieras, estaré encantado de ayudarte.<br>
 - 📫 Puedes contactarme en: <a href="mailto:joseanlopezavila@gmail.com">joseanlopezavila@gmail.com</a>
 
@@ -42,13 +43,11 @@ Soy estudiante de desarrollado web y actualmente cursando el fp de daw. Estoy am
 <h4> Bases de datos </h4>
 <span>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 </span>
 
 <h4> Tecnologías en Aprendizaje </h4>
 <span>
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white">
 </span>
 
